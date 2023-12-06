@@ -122,6 +122,58 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SensorBoard\Design Rule Check - SensorBoard.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SensorBoard\NC Drill\SensorBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SensorBoard\NC Drill\SensorBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SensorBoard\NC Drill\SensorBoard.TXT
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project
 Value=SensorBoard
@@ -681,7 +733,7 @@ OutputDefault1=0
 [Modification Levels]
 Type1=1
 Type2=1
-Type3=1
+Type3=0
 Type4=1
 Type5=1
 Type6=1
@@ -696,10 +748,10 @@ Type14=1
 Type15=1
 Type16=1
 Type17=1
-Type18=1
+Type18=0
 Type19=1
 Type20=1
-Type21=1
+Type21=0
 Type22=1
 Type23=1
 Type24=1
@@ -714,7 +766,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
@@ -757,7 +809,7 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
-Type79=1
+Type79=0
 Type80=1
 Type81=1
 Type82=1
