@@ -127,51 +127,59 @@ DocumentPath=Project Outputs for RelayBoard\Design Rule Check - RelayBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for SensorBoard\NC Drill\SensorBoard.DRR
+DocumentPath=Project Outputs for RelayBoard\NC Drill\RelayBoard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.EXTREP
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GBL
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GBS
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GM2
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GTL
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GTO
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.GTS
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for SensorBoard\NC Drill\SensorBoard.LDP
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.REP
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for SensorBoard\Gerber\SensorBoard.RUL
+DocumentPath=Project Outputs for RelayBoard\NC Drill\RelayBoard.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for SensorBoard\NC Drill\SensorBoard.TXT
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for RelayBoard\Gerber\RelayBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for RelayBoard\NC Drill\RelayBoard.TXT
 DItemRevisionGUID=
 
 [Parameter1]
