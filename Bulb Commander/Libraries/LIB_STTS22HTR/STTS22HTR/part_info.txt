@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STTS22HTR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=7
+Version=1.1
+Released=2020-01-07 06:45:42
+Downloaded=2025-03-25 19:00:46
+3D=Y

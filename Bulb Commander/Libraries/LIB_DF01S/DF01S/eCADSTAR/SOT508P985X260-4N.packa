@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DF01S"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-15-13:35:18)
+    (mountForm default
+        (footprintRef "SOT508P985X260-4N")
+        (spec "System")
+    )
+)

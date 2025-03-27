@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DF01S
+D Glass passivated junction.; Low leakage.; Surge overload rating: 50 amperes peak.; Lead Free Compliant to EU RoHS 2002/95/EU Directives; Green Molding Compound: IEC61249; Qualified with IR Reflow and Wave Soldering; UL Certified, UL # E258596
+K
+F https://www.onsemi.com/pub/Collateral/DF10S-D.PDF
+$ENDCMP
+#
+#End Doc Library

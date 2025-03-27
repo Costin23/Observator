@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STTS22HTR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-01-07-06:45:42)
+    (mountForm default
+        (footprintRef "SON65P200X200X55-7N-D")
+        (spec "System")
+    )
+)

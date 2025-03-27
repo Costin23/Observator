@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STTS22HTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STTS22HTR" (!) = "", "SON65P200X200X55-7N-D", "Small Outline No-lead", "511-STTS22HTR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STTS22HTR?qs=%252B6g0mu59x7LCfjXXPvLkpg%3D%3D", "STTS22HTR", "https://www.arrow.com/en/products/stts22htr/stmicroelectronics?utm_currency=USD&region=europe", "Board Mount Temperature Sensors Low-voltage, ultra-low-power, 0.5 degree C accuracy I2C/SMBus 3.0 temperature sensor", "https://www.mouser.com/datasheet/2/389/stts22h-1663205.pdf", "0.55 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=DF01S
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=4
+Version=3.1
+Released=2017-01-11 16:35:06
+Downloaded=2025-02-10 20:49:20
+3D=Y

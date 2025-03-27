@@ -1,0 +1,18 @@
+.DF01S :1 ;Glass passivated junction.; Low leakage.; Surge overload rating: 50 amperes peak.; Lead Free Compliant to EU RoHS 2002/95/EU Directives; Green Molding Compound: IEC61249; Qualified with IR Reflow and Wave Soldering; UL Certified, UL # E258596
+SOT508P985X260-4N
+*STM U
+*NGS
+*PLB 1="OUT+" 2="OUT-" 3="AC" 4="AC_2"
+*MXP 4
+*DFN DF01S
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (DF01S)
+~!Mouser Part Number (512-DF01S)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/DF01S?qs=jEaxvrTvpae4Dh%252Bb%252BCgJqg%3D%3D)
+~!Arrow Part Number (DF01S)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/df01s/on-semiconductor?region=nac)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/DF10S-D.PDF)
+~!Height (-)
+~!3D_Model (DF01S)
+DF01S
+1.1!U 2.1!U 3.1!U 4.1!U 

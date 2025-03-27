@@ -1,0 +1,301 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "DF01S"
+   (description "Glass passivated junction.; Low leakage.; Surge overload rating: 50 amperes peak.; Lead Free Compliant to EU RoHS 2002/95/EU Directives; Green Molding Compound: IEC61249; Qualified with IR Reflow and Wave Soldering; UL Certified, UL # E258596")
+   (family "ANA")
+   (package "SOT508P985X260-4N")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pub/Collateral/DF10S-D.PDF")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "DF01S")
+   (attribute "Mouser Part Number" "512-DF01S")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/DF01S?qs=jEaxvrTvpae4Dh%252Bb%252BCgJqg%3D%3D")
+   (attribute "Arrow Part Number" "DF01S")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/df01s/on-semiconductor?region=nac")
+   (gate
+    (symbol "DF01S")
+    (pin "OUT+" 1 PS)
+    (pin "OUT-" 2 PS)
+    (pin "AC" 3 PS)
+    (pin "AC_2" 4 PS)
+   )
+  )
+  (symbol "DF01S"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT508P985X260-4N"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 1.9304)
+      (pt -3.2512 3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 3.1496)
+      (pt -5.1562 3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -5.1562 3.1496)
+      (pt -5.1562 1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -5.1562 1.9304)
+      (pt -3.2512 1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 -3.1496)
+      (pt -3.2512 -1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 -1.9304)
+      (pt -5.1562 -1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -5.1562 -1.9304)
+      (pt -5.1562 -3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -5.1562 -3.1496)
+      (pt -3.2512 -3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 -1.9304)
+      (pt 3.2512 -3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 -3.1496)
+      (pt 5.1562 -3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 5.1562 -3.1496)
+      (pt 5.1562 -1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 5.1562 -1.9304)
+      (pt 3.2512 -1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 3.1496)
+      (pt 3.2512 1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 1.9304)
+      (pt 5.1562 1.9304))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 5.1562 1.9304)
+      (pt 5.1562 3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 5.1562 3.1496)
+      (pt 3.2512 3.1496))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 -4.2672)
+      (pt 3.2512 -4.2672))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 -4.2672)
+      (pt 3.2512 4.2672))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 4.2672)
+      (pt 0.3048 4.2672))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 0.3048 4.2672)
+      (pt -0.3048 4.2672))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -0.3048 4.2672)
+      (pt -3.2512 4.2672))))
+   (layer TASM
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 4.2672)
+      (pt -3.2512 -4.2672))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 -4.2672)
+      (pt 3.2512 -4.2672))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 -4.2672)
+      (pt 3.2512 -3.5052))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 4.2672)
+      (pt 0.3048 4.2672))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 0.3048 4.2672)
+      (pt -0.3048 4.2672))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -0.3048 4.2672)
+      (pt -3.2512 4.2672))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 4.2672)
+      (pt -3.2512 3.5052))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 1.5748)
+      (pt -3.2512 -1.5748))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt -3.2512 -3.5052)
+      (pt -3.2512 -4.2672))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 -1.5748)
+      (pt 3.2512 1.5748))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1524)
+     (path
+      (closed false)
+      (pt 3.2512 3.5052)
+      (pt 3.2512 4.2672))))
+   (leg 1 (pt -4.3942 2.54) (padstack 0))
+   (leg 2 (pt -4.3942 -2.54) (padstack 0))
+   (leg 3 (pt 4.3942 -2.54) (padstack 0))
+   (leg 4 (pt 4.3942 2.54) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.2446 2.2352 0 0 0))
+   )
+   (model "DF01S.stp"
+    (euler 0 0 -90)
+    (offset 0 0 1.5700000524520874)
+   )
+  )
+ )
+)

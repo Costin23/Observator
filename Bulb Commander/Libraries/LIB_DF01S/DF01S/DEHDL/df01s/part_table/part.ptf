@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DF01S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "DF01S" (!) = "", "SOT508P985X260-4N", "Other", "512-DF01S", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/DF01S?qs=jEaxvrTvpae4Dh%252Bb%252BCgJqg%3D%3D", "DF01S", "https://www.arrow.com/en/products/df01s/on-semiconductor?region=nac", "Glass passivated junction.; Low leakage.; Surge overload rating: 50 amperes peak.; Lead Free Compliant to EU RoHS 2002/95/EU Directives; Green Molding Compound: IEC61249; Qualified with IR Reflow and Wave Soldering; UL Certified, UL # E258596", "https://www.onsemi.com/pub/Collateral/DF10S-D.PDF"
+END_PART
+
+END.

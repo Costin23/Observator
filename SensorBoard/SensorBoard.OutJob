@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=SensorBoard.OutJob
 Description=
-TargetOutputMedium=New Folder Structure
+TargetOutputMedium=BOM
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -35,7 +35,7 @@ OutputMedium4=Drill
 OutputMedium4_Type=GeneratedFiles
 OutputMedium5=FAB
 OutputMedium5_Type=GeneratedFiles
-OutputMedium6=New Folder Structure
+OutputMedium6=BOM
 OutputMedium6_Type=GeneratedFiles
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
@@ -121,7 +121,9 @@ Configuration5_Item3=Comment=True|Footprint=True
 Configuration5_Name4=SortOrder
 Configuration5_Item4=Designator=Up|Comment=Up|Footprint=Up
 Configuration5_Name5=VisibleOrder
-Configuration5_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration5_Item5=Designator=120|Comment=120|Description=120|Footprint=120|Quantity=70|Supplier=100|Supplier PN=100|MFR=100|MFR PN=100|Datasheet=100
+Configuration5_Name6=VisibleOrder_Flat
+Configuration5_Item6=Designator=120|Comment=120|Description=120|Footprint=120|Quantity=70|Supplier=100|Supplier PN=100|MFR=100|MFR PN=100|Datasheet=100
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\

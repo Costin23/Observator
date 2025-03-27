@@ -1,0 +1,18 @@
+.STTS22HTR :1 ;Board Mount Temperature Sensors Low-voltage, ultra-low-power, 0.5 degree C accuracy I2C/SMBus 3.0 temperature sensor
+SON65P200X200X55-7N-D
+*STM IC
+*NGS
+*PLB 1="SCL" 2="ALERT / INT" 3="VDD" 4="ADDR" 5="GND" 6="SDA" 7="EP"
+*MXP 7
+*DFN STTS22HTR
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STTS22HTR)
+~!Mouser Part Number (511-STTS22HTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STTS22HTR?qs=%252B6g0mu59x7LCfjXXPvLkpg%3D%3D)
+~!Arrow Part Number (STTS22HTR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/stts22htr/stmicroelectronics?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/389/stts22h-1663205.pdf)
+~!Height (0.55mm)
+~!3D_Model (STTS22HTR)
+STTS22HTR
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 
