@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\ALTIUM_WORK\Projects\Racheta_PCB\PCB\2 Layers.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=04-__-r__-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=04-__-r__-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
