@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -138,6 +138,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSJHDADD
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BulbCommander\Design Rule Check - Bub Commander.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -772,7 +776,7 @@ Type75=1
 Type76=1
 Type77=1
 Type78=1
-Type79=1
+Type79=0
 Type80=1
 Type81=1
 Type82=1
